@@ -1,0 +1,9 @@
+{
+    "env":{
+        "dev":{
+            "url": "https://nonprod-app.poplin.co/",
+            "login": "andrew+ggg@poplin.co",
+            "password": "Password1!"
+        }
+    }
+}
